@@ -1,7 +1,8 @@
 name: os_permission_widget
 description: "Handle Permission Handler With Easy"
 version: 0.0.1
-homepage:
+homepage: https://github.com/Octavian25
+repository: https://github.com/Octavian25/os_permission_widget
 
 environment:
   sdk: ^3.6.0
